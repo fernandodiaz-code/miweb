@@ -1,1 +1,2 @@
-print("hola mundo ")
+colocolo=input("que es ?")
+print("el ",colocolo)
