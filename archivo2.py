@@ -1,2 +1,2 @@
-edad=input("ingrese edad " )
-print ("su edad es ",edad)
+nombre=input("ingrese nombre  " )
+print ("su nombre es",nombre)
